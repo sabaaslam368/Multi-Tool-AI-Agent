@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Multi-Tool AI Agent
 
 ## Overview
@@ -41,3 +42,7 @@ Explain the purpose of your main Python files here.
 - Add more tools
 - Improve error handling
 - Add automated tests
+=======
+# Multi-Tool-AI-Agent
+My AI Engineering learning journey, featuring hands-on projects and experiments in Python, AI, Machine Learning, Generative AI, APIs, Chatbots, RAG, and more.
+>>>>>>> 788cfb794a1fc89ad2f4e7ffc0d045cf64589149
