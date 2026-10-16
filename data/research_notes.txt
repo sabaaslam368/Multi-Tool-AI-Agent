@@ -1,0 +1,40 @@
+
+Artificial Intelligence (AI)
+
+Artificial Intelligence is a field of computer
+science focused on building systems that perform
+tasks requiring human-like intelligence.
+
+Machine Learning (ML)
+
+Machine Learning is a subfield of AI.
+It enables systems to learn patterns from data
+and make predictions.
+
+Generative AI
+
+Generative AI creates new content such as text,
+images, audio, video, and computer code.
+
+Retrieval-Augmented Generation (RAG)
+
+RAG retrieves relevant information from a knowledge
+source and supplies it to a language model to help
+generate grounded answers.
+
+Embeddings
+
+Embeddings represent text as numerical vectors.
+They help applications compare semantic similarity
+and retrieve related information.
+
+LangGraph
+
+LangGraph is a framework for building stateful,
+multi-step agent workflows using nodes and edges.
+
+Python
+
+Python is a general-purpose programming language
+used in automation, data analysis, web development,
+and artificial intelligence.
